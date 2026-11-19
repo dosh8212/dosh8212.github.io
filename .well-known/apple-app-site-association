@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["H69ZF54MVC.com.tripwright.app"],
+        "components": [
+          { "/": "/tripwright-site/app/trip/*", "comment": "View-only trip links" },
+          { "/": "/tripwright-site/app/collab/*", "comment": "Can view and edit links" },
+          { "/": "/tripwright-site/app/shared/*", "comment": "Quick links" }
+        ]
+      }
+    ]
+  }
+}
